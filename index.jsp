@@ -354,10 +354,14 @@
         
         <div class="about-content">
             <h4>Welcome to Fitness Centre</h4>
-            <p>At Fitness Centre, we are committed to helping you achieve your fitness goals. Whether you're a beginner or an experienced athlete, our gym is the perfect place for you to stay fit, healthy, and motivated. With state-of-the-art equipment, expert trainers, and a variety of fitness programs, we provide everything you need for a successful fitness journey.</p>
+            <p>At Fitness Centre, we are committed to helping you achieve your fitness goals. Whether you're a beginner or an experienced 
+            athlete,our gym is the perfect place for you to stay fit, healthy, and motivated. With state-of-the-art equipment, 
+            expert trainers, and a variety of fitness programs, we provide everything you need for a successful fitness journey.</p>
 
             <h5>Our Mission</h5>
-            <p>Our mission is to empower individuals to lead healthier lives by providing a welcoming environment, expert guidance, and the best fitness resources. We aim to help our members become stronger, more confident, and better versions of themselves.</p>
+            <p>Our mission is to empower individuals to lead healthier lives by providing a welcoming environment, expert guidance, 
+            and the best fitness resources. We aim to help our members become stronger, more confident,
+            and better versions of themselves.</p>
 
             <h5>What We Offer</h5>
             <ul>
@@ -369,7 +373,9 @@
             </ul>
 
             <h5>Our Vision</h5>
-            <p>We envision becoming a community-driven gym where everyone, regardless of their fitness level, feels supported, inspired, and motivated to reach their potential. We believe in fostering an inclusive, positive environment where our members can thrive.</p>
+            <p>We envision becoming a community-driven gym where everyone, regardless of their fitness level, feels supported, 
+            inspired, and motivated to reach their potential. We believe in fostering an inclusive,
+            positive environment where our members can thrive.</p>
         </div>
 
         
